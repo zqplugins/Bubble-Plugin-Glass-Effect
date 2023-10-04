@@ -1,0 +1,89 @@
+{
+    "category": "plugins",
+    "display": "Glass Effect - Glassify",
+    "fields": {
+        "AAE": {
+            "caption": "Background",
+            "default_val": "rgba(195, 87, 237, 0.42)",
+            "editor": "Color",
+            "name": "background",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Border radius",
+            "default_val": "4.2px",
+            "editor": "DynamicValue",
+            "name": "borderradius",
+            "rank": 5,
+            "value": "number"
+        },
+        "AAH": {
+            "caption": "Blur",
+            "default_val": "4.2px",
+            "doc": "",
+            "editor": "DynamicValue",
+            "name": "blur",
+            "rank": 7,
+            "value": "number"
+        },
+        "AAI": {
+            "caption": "Stroke",
+            "default_val": 0.3,
+            "doc": "",
+            "editor": "DynamicValue",
+            "name": "border",
+            "rank": 8,
+            "value": "number"
+        },
+        "AAK": {
+            "caption": "Give effect name",
+            "default_val": "glassEffect1",
+            "doc": "No spaces allowed, max 20 characters",
+            "editor": "StaticText",
+            "long_text": false,
+            "name": "glassname",
+            "rank": 2
+        },
+        "AAL": {
+            "caption": "With this action you can create and assign the glass effect to elements.",
+            "editor": "Label",
+            "name": "header-info",
+            "rank": 0
+        },
+        "AAM": {
+            "caption": "Elements ID/IDs",
+            "default_val": "element1,element2,glasscontainer",
+            "doc": "e.g: mycomponentid1,mycomponentid2",
+            "editor": "StaticText",
+            "name": "glasselementid",
+            "rank": 1
+        },
+        "AAd": {
+            "caption": "Overwrite color?",
+            "default_val": true,
+            "doc": "If overwrite is true, the container will change to the color defined here",
+            "editor": "Checkbox",
+            "name": "bgoverwrite",
+            "options": "",
+            "rank": 9
+        },
+        "AAe": {
+            "caption": "Border unity",
+            "default_val": "px",
+            "editor": "Dropdown",
+            "name": "borderunity",
+            "options": "px,em,rem,%,vw,vh",
+            "rank": 4
+        },
+        "AAf": {
+            "caption": "Blur Unity",
+            "default_val": "px",
+            "editor": "Dropdown",
+            "name": "blurunity",
+            "options": "px,mm",
+            "rank": 6
+        }
+    },
+    "type": "client_side"
+}

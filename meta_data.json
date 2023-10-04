@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "containers",
+        "2": "technical",
+        "3": "media"
+    },
+    "demo_page": "https://glasseffect-application.bubbleapps.io/version-test/glasseffectpage",
+    "description": "With this plugin you are able to create the glass effect and assign to HTML elements according to their ID attribute. \n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1655391514584x619419039059485800/Screenshot%202022-06-16%20at%2016.58.04.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Glass Effect",
+    "plugin_instructions": "To use it, please turn on the ID attribute on settings. More information here:\nhttps://forum.bubble.io/t/how-do-you-enable-an-id-attribute-to-a-input-box-or-any-item/112195"
+}
